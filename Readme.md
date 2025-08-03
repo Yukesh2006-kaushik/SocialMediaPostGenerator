@@ -19,7 +19,7 @@ This Streamlit-based web app helps you generate engaging social media posts incl
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/SocialMediaPostGenerator.git
+git clone https://github.com/Yukesh2006-kaushik/SocialMediaPostGenerator.git
 cd SocialMediaPostGenerator
 2. (Optional but Recommended) Create a Virtual Environment
 python -m venv venv
